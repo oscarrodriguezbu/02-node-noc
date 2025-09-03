@@ -32,7 +32,7 @@ Abrir tableplus y configurar la bd de postgres:
 Nota: Al correr las pruebas, tuve problemas al arrancar la aplicacion, entonces coloqué ```docker compose up -d``` y ya la bd de mongo volvio a funcionar
 
 
-# Screenshoots:
+# Screenshots:
 ![alt text](src/public/correo.png)
 
 ![alt text](src/public/screenshoot1.png)
